@@ -3,7 +3,7 @@
 
 A local audio/video-to-text transcription tool with a graphical interface, powered by the [Groq](https://groq.com/) Whisper API and ffmpeg. Handles large files automatically by splitting them into chunks.
 
-[中文说明](README.md)
+[中文说明](README_CN.md)
 
 ## Features
 
